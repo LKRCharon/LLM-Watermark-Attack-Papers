@@ -73,6 +73,12 @@ This repository contains research and tools for watermark attacks on Large Langu
   + Code:
   + Initial Version: 17 Oct 2024
 
++ **Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?**
+  + Authors: Leyi Pan, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
+  + Paper: <https://arxiv.org/abs/2502.11598>
+  + Code: <https://github.com/THU-BPM/Watermark-Radioactivity-Attack>
+  + Initial Version: 17 Feb 2025
+
 ### 1.3 Watermark Spoofing Attacks
 
 ## 2. Benchmarks & Evaluations
