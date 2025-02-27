@@ -25,6 +25,12 @@ This repository contains research and tools for watermark attacks on Large Langu
   + Initial Version: 29 Feb 2024
   + Last Updated: 24 Jun 2024
 
++ **Toward Breaking Watermarks in Distortion-free Large Language Models**
+  + Authors: Shayleen Reynolds, Saheed Obitayo, Niccolò Dalmasso, Dung Daniel T. Ngo, Vamsi K. Potluru, Manuela Veloso
+  + *AAAI 2025 Workshop*
+  + Paper: <https://arxiv.org/abs/2502.18608>
+  + Initial Version: 25 Feb 2025
+
 ### 1.2 Watermark Scrubbing/Removal Attacks
 
 + **Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense**
